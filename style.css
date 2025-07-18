@@ -57,7 +57,7 @@ body, html {
 }
 
 .logo-links img {
-  height: clamp(40px, 6vh, 80px); /* Responsive size: min 40px, max 80px */
+  height: clamp(50px, 8vh, 100px); /* Responsive size: min 40px, max 80px */
   width: auto;
   transition: transform 0.3s ease;
   cursor: pointer;
